@@ -15,7 +15,7 @@ I have worked in development companies like Shamlatch, Beyond Enterprizes, and e
 <a><img src="https://img.shields.io/badge/Solidity-5A5A5A?logo=Solidity&style=for-the-badge"/></a>
 
 ### Web & Mobile Development
-<a><img src="https://img.shields.io/badge/React.js-4BC8EC?logo=React&style=for-the-badge&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/React-4BC8EC?logo=React&style=for-the-badge&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Vue.js-40B080?logo=Vue.js&style=for-the-badge&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Node-72AF5F?logo=Node.js&style=for-the-badge&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Angular-DD0031?logo=Angular&style=for-the-badge&logoColor=white"/></a>
