@@ -17,17 +17,17 @@ Looking forward to hearing from you.
 ### Mobile Development
 <a><img src="https://img.shields.io/badge/Android-30D780?logo=Android&style=for-the-badge&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Flutter-51BFF0?logo=Flutter&style=for-the-badge&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/Kotlin-B71BDF?logo=Kotlin&style=for-the-badge&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Kotlin-8447F4?logo=Kotlin&style=for-the-badge&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/React Native-4BC8EC?logo=React&style=for-the-badge&logoColor=white"/></a>
 
-### Mobile Development
+### Web Development
 <a><img src="https://img.shields.io/badge/React-4BC8EC?logo=React&style=for-the-badge&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Vue.js-40B080?logo=Vue.js&style=for-the-badge&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Node-72AF5F?logo=Node.js&style=for-the-badge&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Javascript-F6E112?logo=Javascript&style=for-the-badge&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=Bootstrap&style=for-the-badge&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/jQuery-0769AD?logo=JQuery&style=for-the-badge&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Typescript-3878BB?logo=Typescript&style=for-the-badge&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Laravel-F24D38?logo=Laravel&style=for-the-badge&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/.NET-337CB8?logo=.NET&style=for-the-badge&logoColor=white"/></a>
 
 ### Blockchain Development
 <a><img src="https://img.shields.io/badge/Bitcoin-5A5A5A?logo=Bitcoin&style=for-the-badge"/></a>
