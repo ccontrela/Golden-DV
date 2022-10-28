@@ -3,15 +3,21 @@
 <img align="right" src="https://user-images.githubusercontent.com/113364415/189926963-d45c6a5c-b842-4480-8911-0c04f551a54f.png" width="400px"/>
 
 <p>
-I'm Carlos Contreras from Los Angeles, CA.<br/>
-I have over 6 years of experience in web, mobile app and blockchain space development.<br/>
-I have rich experience on Flutter, React Native, Kotlin and web development like React, Vue.js and Node.js<br/>
+Hi.
+I'm Carlos Contreras from Los Angeles, CA
+I'm a senior full stack developer specializing in building mobile apps and websites.
+My main skills area:
+  *Mobile: Flutter, Kotlin, React Native
+  *Web: Java, Sprin Boot, Laravel, React, Vue, .NET
+I also have good experience with Python, C# and Blockchain.
+I am always full time available and ready for new challenges.
+Looking forward to hearing from you.
 </p>
 
 ### Mobile Development
-<a><img src="https://img.shields.io/badge/Android-4BC8EC?logo=Android&style=for-the-badge&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/Flutter-4BC8EC?logo=Flutter&style=for-the-badge&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/Kotlin-4BC8EC?logo=Kotlin&style=for-the-badge&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Android-30D780?logo=Android&style=for-the-badge&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Flutter-51BFF0?logo=Flutter&style=for-the-badge&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Kotlin-B71BDF?logo=Kotlin&style=for-the-badge&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/React Native-4BC8EC?logo=React&style=for-the-badge&logoColor=white"/></a>
 
 ### Mobile Development
