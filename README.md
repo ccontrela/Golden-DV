@@ -4,7 +4,6 @@
 
 <p>
 Hi.
-I'm Carlos Contreras from Los Angeles, CA
 I'm a senior full stack developer specializing in building mobile apps and websites.
 My main skills area:
   *Mobile: Flutter, Kotlin, React Native
