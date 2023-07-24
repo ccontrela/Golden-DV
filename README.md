@@ -1,4 +1,4 @@
-<img align="right" src="image.png" width="400px"/>
+<img align="right" src="image.png" width="250px"/>
 
 ### Overview
 `Golden-DV` is a professional, passionate and well motivated software engineer with expertise in Rust, Python, Go, and JavaScript.
