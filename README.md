@@ -1,38 +1,25 @@
-## Dear Everyone
+<img align="right" src="image.png" width="400px"/>
 
-<img align="right" src="https://user-images.githubusercontent.com/113364415/189926963-d45c6a5c-b842-4480-8911-0c04f551a54f.png" width="400px"/>
+### Overview
+`Golden-DV` is a professional, passionate and well motivated software engineer with expertise in Rust, Python, Go, and JavaScript.
 
-<p>
-Hi.
-I'm a senior full stack developer specializing in building mobile apps and websites.
-My main skills area:
-  *Mobile: Flutter, Kotlin, React Native
-  *Web: Java, Sprin Boot, Laravel, React, Vue, .NET
-I also have good experience with Python, C# and Blockchain.
-I am always full time available and ready for new challenges.
-Looking forward to hearing from you.
-</p>
+`Golden-DV` worked on a range of products with clients from working on scalability obstacles in production engineering with the objective to develop programming solutions and launch new applications. `Golden-DV` focus on creating code that is easy to read, maintain, and test to optimize the developer’s experience and optimizing the overall functionality and aesthetics of the applications themselves.
 
-### Mobile Development
-<a><img src="https://img.shields.io/badge/Android-30D780?logo=Android&style=for-the-badge&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/Flutter-51BFF0?logo=Flutter&style=for-the-badge&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/Kotlin-8447F4?logo=Kotlin&style=for-the-badge&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/React Native-4BC8EC?logo=React&style=for-the-badge&logoColor=white"/></a>
 
-### Web Development
-<a><img src="https://img.shields.io/badge/React-4BC8EC?logo=React&style=for-the-badge&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/Vue.js-40B080?logo=Vue.js&style=for-the-badge&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/Node-72AF5F?logo=Node.js&style=for-the-badge&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/Javascript-F6E112?logo=Javascript&style=for-the-badge&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/Typescript-3878BB?logo=Typescript&style=for-the-badge&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/Laravel-F24D38?logo=Laravel&style=for-the-badge&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/.NET-337CB8?logo=.NET&style=for-the-badge&logoColor=white"/></a>
+#### ✨ Technical Stacks ✨
 
-### Blockchain Development
-<a><img src="https://img.shields.io/badge/Bitcoin-5A5A5A?logo=Bitcoin&style=for-the-badge"/></a>
-<a><img src="https://img.shields.io/badge/Ethereum-5A5A5A?logo=Ethereum&style=for-the-badge"/></a>
-<a><img src="https://img.shields.io/badge/Solidity-5A5A5A?logo=Solidity&style=for-the-badge"/></a>
+* 🥇 Programming Languages: [Rust](https://www.rust-lang.org/), [Golang](https://golang.org/), [Python](https://www.python.org/) ( [Django](https://www.djangoproject.com/) ), [C/C++](https://www.learncpp.com/), [JavaScript](https://www.javascript.com/) ( [Spring](https://spring.io/) )
 
-I am always full time available and ready for new challenges.<br/>
-Looking forward to hearing from you.<br/>
-Thanks.
+* 🥈 Blockchain: [Solidity](https://soliditylang.org/), [Ethereum](https://ethereum.org/), [Hardhat](https://hardhat.org/), [EVM](https://ethereum.org/en/developers/docs/evm/)
+
+* 🥇 DataBase: [MongoDB](https://www.mongodb.com/), [PostgreSQL](https://www.postgresql.org/), [MySQL](https://mysql.com/), [RethinkDB](https://rethinkdb.com/) ), [Redis](https://redis.io/)
+
+* 🥈 DevOps: [CircleCI](https://circleci.com/), [Jenkins](https://www.jenkins.io/), [Github Actions](https://docs.github.com/en/actions), [Bitbucket Pipeline](https://bitbucket.org/product/features/pipelines), [Bitrise](https://www.bitrise.io/)
+
+* 🥇 Web Development: [Javascript](https://www.javascript.com/), [Typescript](https://www.typescriptlang.org/), [Node.js](https://nodejs.org) ( [Express.js](https://expressjs.com/) ), [React.js](https://reactjs.org/) ( [Gatsby](https://www.gatsbyjs.com/), [Next.js](https://nextjs.org/) ), [Vue.js](https://vuejs.org/) ( [Nuxt.js](https://nuxtjs.org/), [Quasar](https://quasar.dev/), [Vuesax](https://lusaxweb.github.io/vuesax/), [Vuetify](https://vuetifyjs.com/)), [Angular](https://angular.io/) 
+
+* 🥉 Test Framework: [Jest](https://jestjs.io/), [Mocha](https://mochajs.org/)/[Chai](https://www.chaijs.com/), [Jasmine](https://jasmine.github.io/)
+
+What `Golden-DV` does is to collaborate on enterprise solutions and to help people in order to find solutions, make consultants, and solve problems regarding the idea they have.
+
+Thank you.
